@@ -1,0 +1,18 @@
+#ErrorMsg{
+    margin-left: 500px;
+}
+
+#item-count{
+    max-width: 250px;
+}
+
+#sales-content{
+    width: 84%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+
+#sales-content-holder{
+    margin-top: 100px;
+}

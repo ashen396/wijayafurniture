@@ -1,0 +1,49 @@
+#user-content{
+    width: 84%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+
+#user-content-holder{
+    margin-top: 100px;
+}
+
+#new-user-content{
+    max-width: max-content;
+}
+
+#menu-list-group{
+    height: 200px;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: fit-content;
+    max-height: 200px;
+    overflow: scroll;
+    min-width: fit-content;
+}
+
+#menu-list-group>li>input{
+    margin-right: 10px;
+}
+
+#user-main{
+    width: fit-content;
+    margin: auto;
+    transform: translateY(10%);
+}
+
+#first-row{
+    margin-bottom: 20px;
+}
+#second-row{
+    margin-bottom: 20px;
+}
+
+#users{
+    height: 200px;
+    max-height: 200px;
+    max-width: 500px;
+    overflow-x: scroll;
+}

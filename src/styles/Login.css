@@ -1,0 +1,24 @@
+#login-holder {
+    text-align: center;
+    transform: translateY(100%);
+}
+
+#login-holder>h1 {
+    margin-bottom: 20px;
+}
+
+#login-username {
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#login-password {
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#login-button {
+    max-width: 200px;
+}

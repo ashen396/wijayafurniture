@@ -1,0 +1,39 @@
+#categories {
+    margin-left: 20%;
+    margin-top: 20px;
+    width: 75%;
+    height: max-content;
+    background-color: rgb(227, 226, 226);
+    overflow-y: scroll;
+    max-height: 500px;
+}
+
+#mng-categories-holder{
+    width: fit-content;
+    margin: auto;
+    transform: translateY(20%);
+}
+
+.categories-details {
+    background-color: rgb(197, 197, 197);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#content {
+    width: 84%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+
+#categories {
+    height: 400px;
+}
+
+#categories-holder {
+    height: 400px;
+    max-height: 400px;
+    margin: 0;
+}

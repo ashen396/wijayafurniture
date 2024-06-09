@@ -1,0 +1,14 @@
+#item-search-input{
+    max-width: 250px;
+}
+
+#items-content{
+    width: 84%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+
+#items-content-holder{
+    margin-top: 100px;
+}

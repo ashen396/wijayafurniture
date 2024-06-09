@@ -1,0 +1,40 @@
+#suppliers {
+    margin-left: 20%;
+    margin-top: 20px;
+    width: 75%;
+    height: max-content;
+    background-color: rgb(227, 226, 226);
+    overflow-y: scroll;
+    max-height: 500px;
+}
+
+.suppliers-details {
+    background-color: rgb(197, 197, 197);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#content {
+    width: 84%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+
+#suppliers {
+    height: 400px;
+}
+
+#suppliers-holder {
+    height: 400px;
+    width: 800px;
+    max-height: 400px;
+    margin: 0;
+}
+
+#mng-suppliers-holder{
+    width: fit-content;
+    margin: auto;
+    transform: translateY(20%);
+}

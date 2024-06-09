@@ -1,0 +1,37 @@
+#customers {
+  margin-top: 120px;
+  width: 75%;
+  height: max-content;
+  background-color: rgb(227, 226, 226);
+  overflow-y: scroll;
+  max-height: 500px;
+}
+
+#mng-customer-holder{
+  width: fit-content;
+  margin: auto;
+  transform: translateY(20%);
+}
+
+.customer-details {
+  background-color: rgb(197, 197, 197);
+  margin: 20px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+#content {
+  width: 84%;
+  height: 100%;
+  position: absolute;
+  right: 0;
+}
+
+#customers {
+  height: 400px;
+}
+
+#customers-holder {
+  height: 400px;
+  max-height: 400px;
+}

@@ -1,0 +1,21 @@
+#profile {
+  position: absolute;
+  display: block;
+  text-align: right;
+  right: 0;
+  margin: 3%;
+  margin-top: 1%;
+  padding: 15px;
+  z-index: 1;
+}
+#profile>button{
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  background-color: pink;
+  border: solid 0px black;
+}
+
+#profile>ul{
+  margin: 0;
+}

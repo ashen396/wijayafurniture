@@ -1,0 +1,55 @@
+#subitems {
+    margin-left: 10%;
+    margin-top: 60px;
+    width: 76%;
+    min-height: 500px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: max-content;
+    overflow-y: scroll;
+    max-height: 500px;
+    border-radius: 20px;
+    background-color: rgb(227, 236, 226);
+}
+
+#search-holder{
+    margin-left: 100px;
+}
+
+#item-code {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#table-desc {
+    border-collapse: collapse;
+    border: 0;
+}
+
+#table-desc > tr > th{
+    padding:20px;
+    text-align: center;
+}
+
+#table-desc > tr > td{
+    text-align: center;
+}
+
+.items {
+    margin-top: 20px;
+    margin-left: 20px;
+    max-width: 94%;
+    background-color: white;
+}
+
+.items:last-child {
+    margin-bottom: 20px;
+}
+
+.item-img {
+    max-width: 150px;
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+}

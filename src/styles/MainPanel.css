@@ -1,0 +1,12 @@
+#main-panel{
+    display: inline-flex;
+    width: 100%;
+    text-align: left;
+  }
+  
+  #main-panel>h1{
+    display: block;
+    text-align: left;
+    margin: 3%;
+    margin-left: 20%;
+  }

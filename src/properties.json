@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type":"string",
+    "mongodb-server-url": "mongodb://127.0.0.1:27017",
+    "database-name":"WijayaFurniture",
+    "server-host": "localhost",
+    "server-port": 1234,
+    "server-name": "http://localhost:1234/",
+    "menus": ["Items", "Sales", "Invoices", "Customers", "Categories", "Suppliers", "ManageItems", "ManageSales", "ManageInvoices", "ManageCustomers", "ManageCategories", "ManageSuppliers", "ManageUsers"]
+}
